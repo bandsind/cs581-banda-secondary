@@ -1,8 +1,8 @@
 # Role Analysis — Module 3
-## [Your Name] | Week 3
+## Sindi Banda | Week 3
 
-**Role A:** <!-- e.g., NRC Security Inspector -->
-**Role B:** <!-- e.g., Plant Cybersecurity Manager -->
+**Role A:** ICS/SCADA Engineer
+**Role B:** General Counsel
 
 ---
 
